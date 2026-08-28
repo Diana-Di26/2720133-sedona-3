@@ -2,6 +2,7 @@
 
 - Студент: [Я Неопознанный енот](https://up.htmlacademy.ru/htmlcss-individual/3/user/2720133).
 - Наставник: `Неизвестно`.
+  Сайт: [Сайт Седона](https://diana-di26.github.io/2720133-sedona-3/)
 
 ---
 
